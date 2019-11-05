@@ -1,0 +1,11 @@
+name: Hotdoy
+version: 0.1.0
+description: Hotdoy Theme for Grav CMS
+icon: angellist
+author:
+  name: Hotdoy
+  email: admin@hotdoy.ca
+homepage: https://github.com/hotdoy/grav-hotdoy-skeleton
+bugs: https://github.com/hotdoy/grav-hotdoy-skeleton/issues
+readme: https://github.com/hotdoy/grav-hotdoy-skeleton/blob/develop/README.md
+license: MIT

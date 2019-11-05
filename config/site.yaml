@@ -1,0 +1,16 @@
+title: Hotdoy
+default_lang: en
+author:
+  name: Hotdoy
+  email: admin@hotdoy.ca
+taxonomies:
+  - category
+metadata:
+  description: 'Hotdoy theme for Grav CMS'
+summary:
+  enabled: true
+  format: short
+  size: 120
+  delimiter: '==='
+blog:
+  route: /blog

@@ -1,0 +1,21 @@
+enabled: true
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/custom, user/themes/hotdoy]
+theme_meta: '#009688'
+org_name: Hotdoy
+org_phone: +1-514-555-5555
+org_email: email@email.com
+org_phone_formatted: +1-555-555-5555
+org_phone_display: '1 555 555-5555'
+ficelle: '0'
+rythm: 6rem
+media_radius: 0px
+google_tracking_id: UA-71334388-1
+fg_color: '#313131'
+bg_color: '#ffffff'
+fg_color_alt: '#ffffff'
+bg_color_alt: '#009688'

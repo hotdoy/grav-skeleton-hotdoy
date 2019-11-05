@@ -1,0 +1,108 @@
+git:
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
+    admin-addon-user-manager:
+        url: https://github.com/getgrav/grav-plugin-admin-addon-user-manager
+        path: user/plugins/admin-addon-user-manager
+        branch: master
+    data-manager:
+        url: https://github.com/getgrav/grav-plugin-data-manager
+        path: user/plugins/data-manager
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
+    shortcode-core:
+        url: https://github.com/getgrav/grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: master
+    devtools:
+        url: https://github.com/getgrav/grav-plugin-devtools
+        path: user/plugins/devtools
+        branch: master
+    hotdoy:
+        url: https://github.com/getgrav/grav-theme-hotdoy
+        path: user/themes/hotdoy
+        branch: master
+
+links:
+    admin:
+        src: grav-theme-hotdoy
+        path: user/plugins/admin
+        smc: github
+    admin-addon-user-manager:
+        src: admin-addon-user-manager
+        path: user/plugins/admin-addon-user-manager
+        smc: master
+    data-manager:
+        src: grav-plugin-data-manager
+        path: user/plugins/data-manager
+        smc: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        smc: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        smc: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        smc: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        smc: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        smc: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        smc: github
+    shortcode-core:
+        src: grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        smc: github
+    sitemap:
+        src: grav-plugin-sitemap
+        path: user/plugins/sitemap
+        smc: github
+    sitemap:
+        src: grav-plugin-devtools
+        path: user/plugins/devtools
+        smc: github
+    hotdoy:
+        src: grav-theme-hotdoy
+        path: user/themes/hotdoy
+        smc: github
+        

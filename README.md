@@ -1,2 +1,11 @@
-# grav-skeleton-hotdoy
-Skeleton for Grav CMS using Hotdoy theme.
+# Hotdoy skeleton for Grav CMS
+
+@todo image
+
+## Features
+
+@todo feature
+
+## Setup
+
+@todo setup
