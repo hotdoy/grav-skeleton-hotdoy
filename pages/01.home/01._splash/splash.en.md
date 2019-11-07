@@ -17,5 +17,3 @@ body_classes: hello
 [div style="width:100px;margin:0 auto;"]
 [![](grav.svg)](https://getgrav.org/)
 [/div]
-
-Looking for [edbearing](https://hotdoy.org/elite/edbearing/)?
