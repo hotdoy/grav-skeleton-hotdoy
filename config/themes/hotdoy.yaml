@@ -10,8 +10,6 @@ org_name: Hotdoy
 org_phone: +1-514-555-5555
 org_email: email@email.com
 org_phone_formatted: +1-555-555-5555
-org_phone_display: '1 555 555-5555'
-ficelle: '0'
 rythm: 8rem
 media_radius: 0px
 marquee_bg: '#009688'
