@@ -51,10 +51,14 @@ git:
         url: https://github.com/getgrav/grav-theme-hotdoy
         path: user/themes/hotdoy
         branch: master
+    quark:
+        url: https://github.com/getgrav/grav-theme-quark
+        path: user/themes/quark
+        branch: master
 
 links:
     admin:
-        src: grav-theme-hotdoy
+        src: grav-plugin-admin
         path: user/plugins/admin
         smc: github
     admin-addon-user-manager:
@@ -104,5 +108,9 @@ links:
     hotdoy:
         src: grav-theme-hotdoy
         path: user/themes/hotdoy
+        smc: github
+    quark:
+        src: grav-theme-quark
+        path: user/themes/quark
         smc: github
         
