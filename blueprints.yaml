@@ -1,6 +1,6 @@
-name: Hotdoy
-version: 0.1.0
-description: Hotdoy Theme for Grav CMS
+name: Hotdoy Skeleton
+version: 1.0.0
+description: Skeleton using Hotdoy Theme for Grav CMS
 icon: angellist
 author:
   name: Hotdoy
