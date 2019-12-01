@@ -1,11 +1,3 @@
 # Hotdoy skeleton for Grav CMS
 
-@todo image
-
-## Features
-
-@todo feature
-
-## Setup
-
-@todo setup
+![Theme screenshot](https://raw.githubusercontent.com/hotdoy/grav-skeleton-hotdoy/master/screenshot.jpg)
