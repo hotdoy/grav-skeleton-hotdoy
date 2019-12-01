@@ -1,7 +1,7 @@
-plugins/
+plugins/*
 accounts/
-data/
-themes/
+data/*
+themes/*
 config/backups.yaml
 config/media.yaml
 config/scheduler.yaml

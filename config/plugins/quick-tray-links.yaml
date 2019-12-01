@@ -1,0 +1,10 @@
+enabled: true
+links:
+  -
+    icon: 'fa fa-book'
+    link: 'https://learn.getgrav.org'
+    tooltip: 'Grav Documentation and Tutorials'
+  -
+    icon: 'fa fa-star'
+    link: 'https://material.io/resources/icons/?style=baseline'
+    tooltip: 'Material Icons'

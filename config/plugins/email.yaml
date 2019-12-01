@@ -1,0 +1,15 @@
+enabled: true
+from: noreply@hotdoy.ca
+from_name: Hotdoy
+to: admin@hotdoy.ca
+to_name: Hotdoy
+queue:
+  enabled: false
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
+mailer:
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: true

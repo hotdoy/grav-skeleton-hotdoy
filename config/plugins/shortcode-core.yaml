@@ -1,0 +1,10 @@
+enabled: true
+active: true
+active_admin: true
+admin_pages_only: true
+parser: regular
+custom_shortcodes: /user/themes/hotdoy/shortcodes
+fontawesome:
+  load: false
+  url: //maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+  v5: false

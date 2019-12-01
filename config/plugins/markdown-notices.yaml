@@ -1,0 +1,8 @@
+enabled: true
+built_in_css: false
+base_classes: notices
+level_classes:
+  - yellow
+  - red
+  - blue
+  - green

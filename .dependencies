@@ -51,10 +51,6 @@ git:
         url: https://github.com/getgrav/grav-theme-hotdoy
         path: user/themes/hotdoy
         branch: master
-    quark:
-        url: https://github.com/getgrav/grav-theme-quark
-        path: user/themes/quark
-        branch: master
 
 links:
     admin:
@@ -109,8 +105,3 @@ links:
         src: grav-theme-hotdoy
         path: user/themes/hotdoy
         smc: github
-    quark:
-        src: grav-theme-quark
-        path: user/themes/quark
-        smc: github
-        
