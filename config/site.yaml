@@ -2,7 +2,7 @@ title: Hotdoy
 default_lang: en
 author:
   name: Hotdoy
-  email: 
+  email: admin@hotdoy.ca
 taxonomies:
   - category
 metadata:
@@ -12,3 +12,5 @@ summary:
   format: short
   size: 120
   delimiter: '==='
+blog:
+  route: /blog

@@ -1,4 +1,4 @@
 enabled: true
 route: /sitemap
 changefreq: daily
-priority: !!float 1
+priority: 0.5

@@ -1,14 +1,11 @@
 ---
 title: Introduction
 align: content--left
-rhythm: rhythm
-process:
-    markdown: true
-    twig: true
-text_align: left
+margin: top
+padding: none
+role: default
 ---
 
-# Necat ubi nexuque Iovis [mi=fingerprint] canum amari factus
 ## Necat ubi nexuque [mi=explore] Iovis canum amari factus
 ### Necat [mi=face] ubi nexuque Iovis canum amari factus
 

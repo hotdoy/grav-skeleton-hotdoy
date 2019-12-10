@@ -1,15 +1,12 @@
 ---
 title: Extendable
-media_order: gemma-chua-tran-q747wDQi5Gk-unsplash.jpg
 image: gemma-chua-tran-q747wDQi5Gk-unsplash.jpg
 image_width: 100
 reverse: '1'
 bg_veil: 0
-rhythm: rhythm
-bg_webm: ''
-bg_mp4: ''
-bg_loop: '1'
-min_height: '100'
+margin: top
+padding: none
+role: default
 ---
 
 ## Legem vera auditas iactatibus

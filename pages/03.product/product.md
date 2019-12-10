@@ -1,17 +1,15 @@
 ---
 title: Product
-media_order: 'dahls_kaki_fiche_produit-fr-1553666114.jpg,dahls_kaki_detail_fiche_produit-fr-1553667108.jpg,tablier_kaki_fiche2-fr-1538545877.jpg'
-id: dahls-kaki
+media_order: dahls_kaki_fiche_produit-fr-1553666114.jpg
+id: test-product
 image: dahls_kaki_fiche_produit-fr-1553666114.jpg
-price: 1
+price: 98
 description: 'Placeholder product. Do not buy'
-date: '06:34 15-11-2019'
 content:
     items: '@self.modular'
     order:
         by: folder
         dir: asc
-allo: 'Products with Snipcart are comming soon!'
 ---
 
 ## Snipcart integration out of the box.

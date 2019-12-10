@@ -8,6 +8,9 @@ bg_veil: 0
 bg_color: '#00423e'
 fg_color: '#ffffff'
 bg_color_alt: '#e68f8f'
+margin: top
+padding: both
+role: default
 rhythm: rhythm
 bg_webm: ''
 bg_mp4: ''

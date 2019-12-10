@@ -9,7 +9,7 @@ log_viewer_files:
   - grav
   - email
 sidebar:
-  activate: tab
+  activate: hover
   hover_delay: 100
   size: auto
 dashboard:
@@ -50,10 +50,14 @@ popularity:
     monthly: '12'
     visitors: '20'
 pagemedia:
-  resize_width: 0
-  resize_height: 0
+  resize_width: 1920
+  resize_height: 1920
   res_min_width: 0
   res_min_height: 0
   res_max_width: 0
   res_max_height: 0
   resize_quality: 0.8
+hide_modular_page_types:
+  - Module
+hide_page_types:
+  - Module

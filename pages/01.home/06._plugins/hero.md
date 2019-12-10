@@ -2,15 +2,12 @@
 title: Plugins
 media_order: rasheed-kemy-oqY09oVTa3k-unsplash.jpg
 image: rasheed-kemy-oqY09oVTa3k-unsplash.jpg
-image_alt: 'Plantes d''intérieur'
-image_width: 50
+image_width: 100
 reverse: '0'
 bg_veil: 0
-rhythm: rhythm
-bg_webm: ''
-bg_mp4: ''
-bg_loop: '1'
-min_height: '100'
+margin: top
+padding: none
+role: default
 ---
 
 ## Guttae in rituque posito viri

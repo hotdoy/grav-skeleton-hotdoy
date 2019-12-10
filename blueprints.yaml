@@ -1,10 +1,9 @@
 name: Hotdoy Skeleton
-version: 1.0.0
+version: 1.4.0
 description: Skeleton using Hotdoy Theme for Grav CMS
 icon: angellist
 author:
   name: Hotdoy
-  email: admin@hotdoy.ca
 homepage: https://github.com/hotdoy/grav-hotdoy-skeleton
 bugs: https://github.com/hotdoy/grav-hotdoy-skeleton/issues
 readme: https://github.com/hotdoy/grav-hotdoy-skeleton/blob/develop/README.md

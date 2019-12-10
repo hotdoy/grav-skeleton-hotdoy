@@ -13,9 +13,9 @@ drawers:
     -
         summary: 'Furor vicit vulnus'
         detail: "Facinus rear inplevit Theseius, furor vicit vulnus coniuge exilibus. Si in\r\nprimum peto licet sub et fuerat, plenum. **Inter locum** deos quibus feretrumque\r\nartus: hastae aut, nec exarsit celatur; prius quae! Adfuit pectore cum neque\r\ninduitur maximus guttura questuque traxit; si leto. Vices et aegide atque spes?\r\n\r\nSemesarumque cacumen quem altera moles Andraemon comites telum, texta agitataque\r\nillum Apolline, resque reclusit adnuit ignoscite. Vertitur hunc; manu lenti\r\nvidisse cum nisi feliciter erat speculatur monuit Remulusque *genuit*, et cum\r\ncanenda illis. Opus semper et ipsi confugit per cum caput viscera mendaci\r\nquantum, cum."
-rhythm: rhythm-half
-twig_first: true
-rythm: rythm
+margin: top
+padding: none
+role: default
 ---
 
 ![](Elite_wallpaper_4k_6.jpg)
