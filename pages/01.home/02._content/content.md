@@ -1,6 +1,7 @@
 ---
 title: Quote
-align: content--center
+align: center
+width: site
 bg_color: '#00423e'
 fg_color: '#ffffff'
 margin: none
