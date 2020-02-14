@@ -7,10 +7,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-admin-addon-user-manager
         path: user/plugins/admin-addon-user-manager
         branch: master
-    data-manager:
-        url: https://github.com/getgrav/grav-plugin-data-manager
-        path: user/plugins/data-manager
-        branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
         path: user/plugins/email
@@ -61,10 +57,6 @@ links:
         src: admin-addon-user-manager
         path: user/plugins/admin-addon-user-manager
         smc: master
-    data-manager:
-        src: grav-plugin-data-manager
-        path: user/plugins/data-manager
-        smc: github
     email:
         src: grav-plugin-email
         path: user/plugins/email
@@ -96,10 +88,6 @@ links:
     sitemap:
         src: grav-plugin-sitemap
         path: user/plugins/sitemap
-        smc: github
-    sitemap:
-        src: grav-plugin-devtools
-        path: user/plugins/devtools
         smc: github
     hotdoy:
         src: grav-theme-hotdoy

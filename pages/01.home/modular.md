@@ -1,11 +1,13 @@
 ---
 title: Home
-media_order: home_meta.png
+media_order: screenshot.jpg
 content:
     items: '@self.modular'
-nav_fg_color: '#ffffff'
-body_classes: modular
+published: true
+metadata:
+    description: 'A flexible, simple and stupidly fast Grav CMS theme from Montreal.'
+color_nav_fg: '#ffffff'
 visible: false
-nav_color: '#ffffff'
+nav_fg_color: '#ffffff'
 ---
 

@@ -3,6 +3,7 @@ route: /admin
 cache_enabled: false
 theme: grav
 logo_text: Hotdoy
+body_classes: null
 content_padding: true
 twofa_enabled: true
 log_viewer_files:
@@ -23,6 +24,7 @@ widgets:
 pages:
   show_parents: folder
   show_modular: true
+  parents_levels: null
 session:
   timeout: 1800
 warnings:
@@ -32,7 +34,7 @@ edit_mode: normal
 frontend_preview_target: _blank
 show_github_msg: false
 pages_list_display_field: title
-google_fonts: true
+google_fonts: false
 admin_icons: line-awesome
 enable_auto_updates_check: true
 notifications:
@@ -44,7 +46,7 @@ popularity:
   enabled: true
   ignore:
     - '/test*'
-    - /modular
+    - '/modular'
   history:
     daily: '30'
     monthly: '12'
@@ -57,7 +59,6 @@ pagemedia:
   res_max_width: 0
   res_max_height: 0
   resize_quality: 0.8
-hide_modular_page_types:
-  - Module
-hide_page_types:
-  - Module
+show_beta_msg: null
+hide_page_types: null
+hide_modular_page_types: null

@@ -4,6 +4,7 @@ process:
     markdown: true
     twig: true
 never_cache_twig: true
+visible: false
 form:
     name: demo-form
     classes: ajax-form
@@ -95,4 +96,7 @@ form:
             message: 'Thanks for reaching out!.'
 ---
 
+[tight]
+# Form
 {% include "forms/form.html.twig" with { form: forms('demo-form') } %}
+[/tight]
