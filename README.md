@@ -12,7 +12,6 @@ After installing the skeleton and creating a user, make sure you...
 * Update all the plugins.
 * Head to the theme configuration and save.
 * If content seems broken, try re-saving the page/modular.
-* Good luck!
 
 **For communication and announcements, head to the [theme repo](https://github.com/hotdoy/grav-theme-hotdoy).**
 
